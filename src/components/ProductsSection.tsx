@@ -25,19 +25,19 @@ const ProductsSection = () => {
     {
       name: "Alfajor Negro",
       price: "$5.25",
-      image: "https://images.unsplash.com/photo-1548907040-4baa6d6dbf0e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       description: "Galletitas de chocolate negro con dulce de leche y cobertura de chocolate amargo."
     },
     {
       name: "Alfajor de Frutas",
       price: "$4.75",
-      image: "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       description: "Galletitas con dulce de leche y mermelada de frutas naturales."
     },
     {
       name: "Alfajor Gigante",
       price: "$8.00",
-      image: "https://images.unsplash.com/photo-1571197119297-4d76f2cd93b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       description: "Nuestro alfajor más grande, perfecto para compartir o para los más golosos."
     }
   ];
